@@ -13,7 +13,7 @@ Nama: Deni Widi Alfian
 NIM: 240401010340
 Program Studi: Informatika
 Nama Project: Website Profile Perusahaan Kopi
-Link Github: https://github.com/deniwidi/
+Link Github: https://github.com/deniwidi/](https://github.com/deniwidi/kopi_profile_php
 
 Project ini dirancang menggunakan bahasa pemrograman PHP untuk membangun sebuah website company profile interaktif bagi perusahaan kopi, lengkap dengan fitur-fitur pendukung yang telah disesuaikan dengan kriteria penilaian.
 
